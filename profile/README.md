@@ -27,11 +27,6 @@
 
 ## 앱 화면
 
-| 메인 지도 페이지 | 리뷰 페이지 |
-|:--:| :--:|
-| ![](/asset/main) | ![](/asset/review-page)|
-
-| 화장실 팝업 | 리뷰 작성 페이지 |
-|:--:| :--:|
-| ![](/asset/popover)| ![](/asset/review-write) |
-
+| 메인 지도 페이지 | 리뷰 페이지 | 화장실 팝업 |
+|:--:| :--:| :--:|
+| ![](/profile/asset/main.png) | ![](/profile/asset/review-page.png)| ![](/profile/asset/popover.png)
