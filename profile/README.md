@@ -44,7 +44,7 @@
 
 | 메인 지도 페이지 | 화장실 팝업 | 리뷰 페이지 | 리뷰 삭제 | 리뷰 등록 |
 |:--:| :--:| :--:| :--: | :--:|
-| ![](/profile/asset/main.png) |![](/profile/asset/popover.png) | ![](/profile/asset/review-page.jpg) | ![](/profile/asset/delete.jpg) | ![](/profile/asset/write-review.jpg) |
+| ![](/profile/asset/main.png) |![](/profile/asset/popover.png) | ![](/profile/asset/review-list.jpg) | ![](/profile/asset/review-delete.jpg) | ![](/profile/asset/review-write.jpg) |
 
 
 ## 데이터베이스 스키마
