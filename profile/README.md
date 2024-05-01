@@ -42,9 +42,9 @@
 
 ## 😇 앱 화면
 
-| 메인 지도 페이지 | 리뷰 페이지 | 화장실 팝업 |
-|:--:| :--:| :--:|
-| ![](/profile/asset/main.png) | ![](/profile/asset/review-page.png)| ![](/profile/asset/popover.png)
+| 메인 지도 페이지 | 화장실 팝업 | 리뷰 페이지 | 리뷰 삭제 | 리뷰 등록 |
+|:--:| :--:| :--:| :--: | :--:|
+| ![](/profile/asset/main.png) |![](/profile/asset/popover.png) | ![](/profile/asset/review-page.jpg) | ![](/profile/asset/delete.jpg) | ![](/profile/asset/write-review.jpg) |
 
 
 ## 데이터베이스 스키마
