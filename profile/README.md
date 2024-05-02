@@ -42,9 +42,13 @@
 
 ## 😇 앱 화면
 
-| 메인 지도 페이지 | 화장실 팝업 | 리뷰 페이지 | 리뷰 삭제 | 리뷰 등록 |
-|:--:| :--:| :--:| :--: | :--:|
-| ![](/profile/asset/main.png) |![](/profile/asset/popover.png) | ![](/profile/asset/review-list.jpg) | ![](/profile/asset/review-delete.jpg) | ![](/profile/asset/review-write.jpg) |
+| 메인 지도 페이지 | 화장실 팝업 | 길찾기 | 리뷰 등록 성공 | 리뷰 없는 화장실/쓰레기통 |
+|:--:| :--:| :--: | :--: | :--: |
+| ![](/profile/asset/main-page.png) |![](/profile/asset/popover-page.png) | ![](/profile/asset/search-road.png)  | ![](/profile/asset/review-register.png) |![](/profile/asset/review-not-found.png) |
+
+| 리뷰 페이지 | 리뷰 삭제 | 리뷰 등록 |
+|:--:| :--: | :--:|
+|![](/profile/asset/review-list.jpg) | ![](/profile/asset/review-delete.jpg) | ![](/profile/asset/review-write.jpg) |
 
 
 ## 데이터베이스 스키마
