@@ -3,10 +3,10 @@
 # PoopchelinGuide
 
 ## 😎 팀 구성
-|  |[김보성](https://github.com/NangManBo)|[이창의](https://github.com/changuii) |[류세민](https://github.com/ryusemin) | [한동근](https://github.com/l0o0lv)|
-| :--:| :--:| :--:| :--:| :--:|
-| 프로필 | ![](https://avatars.githubusercontent.com/u/124684536?v=4)| ![](https://avatars.githubusercontent.com/u/122252160?v=4) | ![](https://avatars.githubusercontent.com/u/113248843?v=4) | ![](https://avatars.githubusercontent.com/u/128709695?v=4)
-| 역할 | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring,react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)| 
+|[김보성](https://github.com/NangManBo)|[이창의](https://github.com/changuii) |[류세민](https://github.com/ryusemin) | [한동근](https://github.com/l0o0lv)|
+| :--:| :--:| :--:| :--:|
+| ![](https://avatars.githubusercontent.com/u/124684536?v=4)| ![](https://avatars.githubusercontent.com/u/122252160?v=4) | ![](https://avatars.githubusercontent.com/u/113248843?v=4) | ![](https://avatars.githubusercontent.com/u/128709695?v=4)
+| [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring,react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)| 
 
 ## 👨‍🏫 문서 
 
